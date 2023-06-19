@@ -8,26 +8,6 @@ export default function App() {
     <View style={styles.container}>
 
       <Text style={styles.title}>To Do List:</Text>
-{/*
-      <TextInput
-        style={styles.input}
-        placeholder="Enter Task"
-        numberOfLines={1}
-        placeholderTextColor="white"
-        value={inputValue}
-        onChangeText={handleInputChange}
-      />
-
-      <View style={styles.buttonContainer}>
-        <Button
-          title="Add"
-          color="green"
-          onPress={handleAddItem}
-        />
-      </View>
-
-      <View style={styles.line} />
-      */}
 
 
       <ScrollView>
